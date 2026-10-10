@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "EMPIRE STORE — elevated fashion, everyday confidence. Discover clothing, shoes and accessories.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "empirestorewebsiteupdated.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ESC",
+  "start_url": "/",
+  "theme_color": "#0b0b0b",
+  "id": "empire-store"
+}
